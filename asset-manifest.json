@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reduxBank.io/shopingcart/static/css/main.f855e6bc.css",
-    "main.js": "/reduxBank.io/shopingcart/static/js/main.f9f73e15.js",
-    "static/js/453.867a1b31.chunk.js": "/reduxBank.io/shopingcart/static/js/453.867a1b31.chunk.js",
-    "index.html": "/reduxBank.io/shopingcart/index.html",
-    "main.f855e6bc.css.map": "/reduxBank.io/shopingcart/static/css/main.f855e6bc.css.map",
-    "main.f9f73e15.js.map": "/reduxBank.io/shopingcart/static/js/main.f9f73e15.js.map",
-    "453.867a1b31.chunk.js.map": "/reduxBank.io/shopingcart/static/js/453.867a1b31.chunk.js.map"
+    "main.css": "/reduxBank.io/static/css/main.f855e6bc.css",
+    "main.js": "/reduxBank.io/static/js/main.7ac8c3bd.js",
+    "static/js/453.867a1b31.chunk.js": "/reduxBank.io/static/js/453.867a1b31.chunk.js",
+    "index.html": "/reduxBank.io/index.html",
+    "main.f855e6bc.css.map": "/reduxBank.io/static/css/main.f855e6bc.css.map",
+    "main.7ac8c3bd.js.map": "/reduxBank.io/static/js/main.7ac8c3bd.js.map",
+    "453.867a1b31.chunk.js.map": "/reduxBank.io/static/js/453.867a1b31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f9f73e15.js"
+    "static/js/main.7ac8c3bd.js"
   ]
 }
